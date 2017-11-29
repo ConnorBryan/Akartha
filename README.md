@@ -6,4 +6,4 @@ A Dungeons & Dragons 5E story
 ## [Places](Places.md)
 ## [Things](Things.md)
 ## [Concepts](Concepts.md)
-## [The Story So Far](The Story So Far.md)
+## [The Story So Far](The%20Story%20So%20Far.md)
