@@ -1,5 +1,5 @@
-AKARTHA
-A Dungeons & Dragons 5E story
+# AKARTHA
+### A Dungeons & Dragons 5E story
 
 # Table of Contents
 ## [Persons](Persons.md)
