@@ -2,6 +2,7 @@
 ## The Story So Far
 ### This is a description of everything that has happened to the current date.
 
+## Prologue
 1. Met inside of a bar outside of the wall in Duragar.
 2. Learned about the kobold trade.
 3. Thalkoum generate economic advantage.
@@ -10,7 +11,7 @@
 6. Meet Streth at the cave.
 7. Went wrong direction: north-west.
 8. Fought the eagle in the clearing. Camped.
-9. Conquered the Southwestern Cave. [Found Glow boomerang, Claw ring]
+9. Conquered the Southwestern Cave. [Found Glow boomerang, Glow Claw ring, Glow Dagger]
 10. Saw tables and two entrance cave.
 11. Streth was dead. Guard approached you when you entered the town. Told them to go to the seedy area of town in the cul de sac.
 12. Magically heavy latch was heavy.
@@ -51,3 +52,8 @@
 47. Met Vemvar, then met Merlius the King who explained the history of he and his brother Karlaq and how dimension gems work in general.
 48. Tasked with "proving themselves" by obliterating another tower, allowed to take eight fighters.
 49. Teleport to an obelisk in a trap, four die, fights Medusa and Stone Giant and Drow Warrior.
+50. Portal pellets were demonstrated and the portal led to the obelisk.
+## Chapter One
+51. Orothor and Marne explain Khoze was attacked by Karlaq and conquering forcers of swirlies.
+52. Marne and Orothor knew Ethos who turned into a portal which led to the area.
+53. They elect to travel to the nearest microgenerator.
